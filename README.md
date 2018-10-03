@@ -1,1 +1,2 @@
-# git_study
+# 学习git相关知识
+* git闯关笔记
